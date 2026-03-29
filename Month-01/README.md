@@ -7,7 +7,7 @@ This folder contains the foundational tasks for the first month of my Data Scien
 ## 🛠️ Weekly Task Overview
 
 ### **Week 1: Introduction to Python Programming**
-* [cite_start]**Hands-On:** Developed basic utility programs including a temperature converter and a multi-function calculator[cite: 1, 3].
+* **Hands-On:** Developed basic utility programs including a temperature converter and a multi-function calculator[cite: 1, 3].
 * [cite_start]**Client Project:** Created a data processing script to calculate average temperatures from weekly datasets[cite: 1, 3].
 
 ### **Week 2: Data Structures and Functions**
@@ -24,9 +24,7 @@ This folder contains the foundational tasks for the first month of my Data Scien
 
 ---
 
-## 📈 Key Learnings
+## 📈 Key Learning Outcomes
 * Understanding how to clean and prepare "messy" data for analysis.
 * Applying statistical aggregation to find business insights.
 * Communicating data stories through clear, professional visualizations.
-
----
